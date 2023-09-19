@@ -1,2 +1,2 @@
-git branch name 
-git checkout name
+git branch name  создать ветку
+git checkout name переключиться на ветку
